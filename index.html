@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>SLANT Evidence</title>
+<meta name="description" content="Evidence site for SLANT, Carthage College's entry in the NASA TechLeap Orbital Clarity Challenge. In preparation; published with the submission.">
+<style>
+:root {
+  --bg: #FFFFFF; --panel: #F7F8FA; --edge: #D3D9E2; --ink: #1C2430; --muted: #4A5563; --accent: #1F5FAD;
+  color-scheme: light;
+}
+@media (prefers-color-scheme: dark) {
+  :root { --bg: #0F141A; --panel: #161D26; --edge: #2A3441; --ink: #E6EAF0; --muted: #A2ACB9; --accent: #78AEF2; color-scheme: dark; }
+}
+* { box-sizing: border-box; }
+html, body { margin: 0; }
+body { background: var(--bg); color: var(--ink); font: 16px/1.55 "Helvetica Neue", Helvetica, Arial, sans-serif; }
+main { max-width: 44rem; margin: 0 auto; padding-inline: 20px; padding-block: 64px 48px; display: grid; gap: 22px; }
+.wordmark { font-size: 2.6rem; font-weight: 700; line-height: 1; letter-spacing: 0.01em; }
+.expansion { color: var(--muted); margin-top: 6px; }
+p { margin: 0; }
+.panel { background: var(--panel); border: 1px solid var(--edge); border-radius: 12px; padding: 18px 20px; display: grid; gap: 10px; }
+.panel h2 { margin: 0; font-size: 1.05rem; }
+dl { display: grid; grid-template-columns: max-content minmax(0, 1fr); gap: 6px 16px; margin: 0; font-size: 0.95rem; }
+dt { color: var(--muted); }
+dd { margin: 0; overflow-wrap: anywhere; }
+.mono { font-family: ui-monospace, "SF Mono", Menlo, Consolas, monospace; font-size: 0.9rem; }
+a { color: var(--accent); }
+footer { color: var(--muted); font-size: 0.85rem; }
+</style>
+</head>
+<body>
+<main>
+  <div>
+    <div class="wordmark">SLANT</div>
+    <div class="expansion">Solar Limb Absorption of Neutrals in the Thermosphere</div>
+  </div>
+  <p>Carthage College's entry in the NASA TechLeap Orbital Clarity Challenge: a sub-kilogram solar-occultation sensor that measures thermospheric mass density and the composition of atomic oxygen, molecular nitrogen and molecular oxygen from a host satellite.</p>
+  <div class="panel">
+    <h2>Evidence site in preparation</h2>
+    <p>This address will hold the figures, analyses, drawings, board design and test records behind the submission, with the date and basis of each. It is published, and frozen, when the submission is made.</p>
+  </div>
+  <dl>
+    <dt>Archive</dt><dd><span class="mono">10.5281/zenodo.23290649</span> (reserved; registered when the archive is published)</dd>
+    <dt>Lead</dt><dd>Kevin Crosby, Space Sciences, Carthage College</dd>
+    <dt>Program</dt><dd><a href="https://www.carthage.edu/space">carthage.edu/space</a></dd>
+  </dl>
+  <footer>Carthage College, Kenosha, Wisconsin</footer>
+</main>
+</body>
+</html>
