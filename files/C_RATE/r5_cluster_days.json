@@ -1,0 +1,865 @@
+{
+ "days": 360,
+ "chunks": 12,
+ "mean_frac_days": 0.7,
+ "mean_per_day": 10.33,
+ "clusters": {
+  "mid inclination": {
+   "n": 22,
+   "frac_days_min": 0.675,
+   "frac_days_max": 0.836,
+   "frac_days_mean": 0.74
+  },
+  "53 deg broadband shell": {
+   "n": 42,
+   "frac_days_min": 0.747,
+   "frac_days_max": 0.817,
+   "frac_days_mean": 0.784
+  },
+  "sun-synchronous": {
+   "n": 25,
+   "frac_days_min": 0.0,
+   "frac_days_max": 1.0,
+   "frac_days_mean": 0.529
+  },
+  "near polar, non-SSO": {
+   "n": 8,
+   "frac_days_min": 0.536,
+   "frac_days_max": 0.608,
+   "frac_days_mean": 0.575
+  },
+  "low inclination": {
+   "n": 3,
+   "frac_days_min": 1.0,
+   "frac_days_max": 1.0,
+   "frac_days_mean": 1.0
+  }
+ },
+ "units": [
+  {
+   "unit": 1,
+   "cluster": "mid inclination",
+   "alt_km": 562.1,
+   "inc_deg": 64.03,
+   "frac_days": 0.728,
+   "per_day": 10.66
+  },
+  {
+   "unit": 2,
+   "cluster": "53 deg broadband shell",
+   "alt_km": 530.3,
+   "inc_deg": 53.17,
+   "frac_days": 0.756,
+   "per_day": 11.22
+  },
+  {
+   "unit": 3,
+   "cluster": "53 deg broadband shell",
+   "alt_km": 550.8,
+   "inc_deg": 53.2,
+   "frac_days": 0.817,
+   "per_day": 12.12
+  },
+  {
+   "unit": 4,
+   "cluster": "53 deg broadband shell",
+   "alt_km": 533.7,
+   "inc_deg": 53.09,
+   "frac_days": 0.778,
+   "per_day": 11.51
+  },
+  {
+   "unit": 5,
+   "cluster": "53 deg broadband shell",
+   "alt_km": 569.7,
+   "inc_deg": 53.15,
+   "frac_days": 0.797,
+   "per_day": 11.64
+  },
+  {
+   "unit": 6,
+   "cluster": "mid inclination",
+   "alt_km": 413.2,
+   "inc_deg": 68.82,
+   "frac_days": 0.7,
+   "per_day": 10.51
+  },
+  {
+   "unit": 7,
+   "cluster": "sun-synchronous",
+   "alt_km": 611.4,
+   "inc_deg": 97.82,
+   "frac_days": 0.153,
+   "per_day": 2.26,
+   "ltan_h": 15.9
+  },
+  {
+   "unit": 8,
+   "cluster": "53 deg broadband shell",
+   "alt_km": 545.6,
+   "inc_deg": 53.25,
+   "frac_days": 0.783,
+   "per_day": 11.54
+  },
+  {
+   "unit": 9,
+   "cluster": "mid inclination",
+   "alt_km": 607.8,
+   "inc_deg": 61.63,
+   "frac_days": 0.722,
+   "per_day": 10.51
+  },
+  {
+   "unit": 10,
+   "cluster": "mid inclination",
+   "alt_km": 511.5,
+   "inc_deg": 45.86,
+   "frac_days": 0.836,
+   "per_day": 12.31
+  },
+  {
+   "unit": 11,
+   "cluster": "53 deg broadband shell",
+   "alt_km": 539.3,
+   "inc_deg": 53.1,
+   "frac_days": 0.753,
+   "per_day": 11.14
+  },
+  {
+   "unit": 12,
+   "cluster": "sun-synchronous",
+   "alt_km": 739.3,
+   "inc_deg": 98.34,
+   "frac_days": 0.761,
+   "per_day": 10.94,
+   "ltan_h": 3.1
+  },
+  {
+   "unit": 13,
+   "cluster": "53 deg broadband shell",
+   "alt_km": 526.9,
+   "inc_deg": 53.07,
+   "frac_days": 0.817,
+   "per_day": 12.12
+  },
+  {
+   "unit": 14,
+   "cluster": "near polar, non-SSO",
+   "alt_km": 704.6,
+   "inc_deg": 85.56,
+   "frac_days": 0.586,
+   "per_day": 8.46
+  },
+  {
+   "unit": 15,
+   "cluster": "sun-synchronous",
+   "alt_km": 715.0,
+   "inc_deg": 98.24,
+   "frac_days": 0.0,
+   "per_day": 0.0,
+   "ltan_h": 16.3
+  },
+  {
+   "unit": 16,
+   "cluster": "sun-synchronous",
+   "alt_km": 568.5,
+   "inc_deg": 97.65,
+   "frac_days": 1.0,
+   "per_day": 15.01,
+   "ltan_h": 12.0
+  },
+  {
+   "unit": 17,
+   "cluster": "53 deg broadband shell",
+   "alt_km": 554.5,
+   "inc_deg": 53.3,
+   "frac_days": 0.753,
+   "per_day": 11.01
+  },
+  {
+   "unit": 18,
+   "cluster": "mid inclination",
+   "alt_km": 406.7,
+   "inc_deg": 65.11,
+   "frac_days": 0.675,
+   "per_day": 10.18
+  },
+  {
+   "unit": 19,
+   "cluster": "53 deg broadband shell",
+   "alt_km": 529.7,
+   "inc_deg": 53.02,
+   "frac_days": 0.756,
+   "per_day": 11.23
+  },
+  {
+   "unit": 20,
+   "cluster": "sun-synchronous",
+   "alt_km": 718.9,
+   "inc_deg": 98.25,
+   "frac_days": 1.0,
+   "per_day": 14.53,
+   "ltan_h": 11.8
+  },
+  {
+   "unit": 21,
+   "cluster": "53 deg broadband shell",
+   "alt_km": 573.8,
+   "inc_deg": 53.19,
+   "frac_days": 0.817,
+   "per_day": 12.04
+  },
+  {
+   "unit": 22,
+   "cluster": "low inclination",
+   "alt_km": 448.8,
+   "inc_deg": 13.71,
+   "frac_days": 1.0,
+   "per_day": 15.43
+  },
+  {
+   "unit": 23,
+   "cluster": "low inclination",
+   "alt_km": 496.3,
+   "inc_deg": 9.5,
+   "frac_days": 1.0,
+   "per_day": 15.27
+  },
+  {
+   "unit": 24,
+   "cluster": "mid inclination",
+   "alt_km": 593.6,
+   "inc_deg": 60.34,
+   "frac_days": 0.772,
+   "per_day": 11.33
+  },
+  {
+   "unit": 25,
+   "cluster": "mid inclination",
+   "alt_km": 583.0,
+   "inc_deg": 62.62,
+   "frac_days": 0.714,
+   "per_day": 10.38
+  },
+  {
+   "unit": 26,
+   "cluster": "53 deg broadband shell",
+   "alt_km": 565.1,
+   "inc_deg": 53.28,
+   "frac_days": 0.778,
+   "per_day": 11.36
+  },
+  {
+   "unit": 27,
+   "cluster": "mid inclination",
+   "alt_km": 476.2,
+   "inc_deg": 64.14,
+   "frac_days": 0.697,
+   "per_day": 10.33
+  },
+  {
+   "unit": 28,
+   "cluster": "mid inclination",
+   "alt_km": 593.9,
+   "inc_deg": 57.25,
+   "frac_days": 0.764,
+   "per_day": 11.13
+  },
+  {
+   "unit": 29,
+   "cluster": "53 deg broadband shell",
+   "alt_km": 552.4,
+   "inc_deg": 53.23,
+   "frac_days": 0.792,
+   "per_day": 11.69
+  },
+  {
+   "unit": 30,
+   "cluster": "53 deg broadband shell",
+   "alt_km": 556.4,
+   "inc_deg": 53.24,
+   "frac_days": 0.761,
+   "per_day": 11.21
+  },
+  {
+   "unit": 31,
+   "cluster": "53 deg broadband shell",
+   "alt_km": 532.1,
+   "inc_deg": 53.02,
+   "frac_days": 0.789,
+   "per_day": 11.69
+  },
+  {
+   "unit": 32,
+   "cluster": "53 deg broadband shell",
+   "alt_km": 534.0,
+   "inc_deg": 53.06,
+   "frac_days": 0.806,
+   "per_day": 11.86
+  },
+  {
+   "unit": 33,
+   "cluster": "53 deg broadband shell",
+   "alt_km": 548.8,
+   "inc_deg": 53.18,
+   "frac_days": 0.775,
+   "per_day": 11.48
+  },
+  {
+   "unit": 34,
+   "cluster": "low inclination",
+   "alt_km": 523.7,
+   "inc_deg": 1.85,
+   "frac_days": 1.0,
+   "per_day": 15.18
+  },
+  {
+   "unit": 35,
+   "cluster": "53 deg broadband shell",
+   "alt_km": 562.1,
+   "inc_deg": 53.27,
+   "frac_days": 0.8,
+   "per_day": 11.81
+  },
+  {
+   "unit": 36,
+   "cluster": "53 deg broadband shell",
+   "alt_km": 543.6,
+   "inc_deg": 53.28,
+   "frac_days": 0.797,
+   "per_day": 11.8
+  },
+  {
+   "unit": 37,
+   "cluster": "sun-synchronous",
+   "alt_km": 641.5,
+   "inc_deg": 97.94,
+   "frac_days": 1.0,
+   "per_day": 14.78,
+   "ltan_h": 10.9
+  },
+  {
+   "unit": 38,
+   "cluster": "sun-synchronous",
+   "alt_km": 731.7,
+   "inc_deg": 98.31,
+   "frac_days": 1.0,
+   "per_day": 14.49,
+   "ltan_h": 2.6
+  },
+  {
+   "unit": 39,
+   "cluster": "53 deg broadband shell",
+   "alt_km": 551.4,
+   "inc_deg": 53.0,
+   "frac_days": 0.753,
+   "per_day": 11.12
+  },
+  {
+   "unit": 40,
+   "cluster": "sun-synchronous",
+   "alt_km": 574.3,
+   "inc_deg": 97.68,
+   "frac_days": 0.0,
+   "per_day": 0.0,
+   "ltan_h": 19.5
+  },
+  {
+   "unit": 41,
+   "cluster": "53 deg broadband shell",
+   "alt_km": 529.3,
+   "inc_deg": 53.17,
+   "frac_days": 0.814,
+   "per_day": 12.06
+  },
+  {
+   "unit": 42,
+   "cluster": "sun-synchronous",
+   "alt_km": 642.4,
+   "inc_deg": 97.94,
+   "frac_days": 1.0,
+   "per_day": 14.77,
+   "ltan_h": 1.1
+  },
+  {
+   "unit": 43,
+   "cluster": "53 deg broadband shell",
+   "alt_km": 572.5,
+   "inc_deg": 53.18,
+   "frac_days": 0.747,
+   "per_day": 11.01
+  },
+  {
+   "unit": 44,
+   "cluster": "53 deg broadband shell",
+   "alt_km": 537.3,
+   "inc_deg": 53.12,
+   "frac_days": 0.817,
+   "per_day": 12.02
+  },
+  {
+   "unit": 45,
+   "cluster": "53 deg broadband shell",
+   "alt_km": 568.3,
+   "inc_deg": 53.07,
+   "frac_days": 0.75,
+   "per_day": 10.97
+  },
+  {
+   "unit": 46,
+   "cluster": "sun-synchronous",
+   "alt_km": 617.2,
+   "inc_deg": 97.84,
+   "frac_days": 0.0,
+   "per_day": 0.0,
+   "ltan_h": 6.8
+  },
+  {
+   "unit": 47,
+   "cluster": "53 deg broadband shell",
+   "alt_km": 566.9,
+   "inc_deg": 53.21,
+   "frac_days": 0.803,
+   "per_day": 11.81
+  },
+  {
+   "unit": 48,
+   "cluster": "53 deg broadband shell",
+   "alt_km": 567.4,
+   "inc_deg": 53.17,
+   "frac_days": 0.75,
+   "per_day": 11.08
+  },
+  {
+   "unit": 49,
+   "cluster": "mid inclination",
+   "alt_km": 510.1,
+   "inc_deg": 67.73,
+   "frac_days": 0.719,
+   "per_day": 10.64
+  },
+  {
+   "unit": 50,
+   "cluster": "sun-synchronous",
+   "alt_km": 581.1,
+   "inc_deg": 97.7,
+   "frac_days": 0.0,
+   "per_day": 0.0,
+   "ltan_h": 6.9
+  },
+  {
+   "unit": 51,
+   "cluster": "mid inclination",
+   "alt_km": 648.2,
+   "inc_deg": 61.02,
+   "frac_days": 0.761,
+   "per_day": 10.97
+  },
+  {
+   "unit": 52,
+   "cluster": "53 deg broadband shell",
+   "alt_km": 566.9,
+   "inc_deg": 53.06,
+   "frac_days": 0.811,
+   "per_day": 11.97
+  },
+  {
+   "unit": 53,
+   "cluster": "53 deg broadband shell",
+   "alt_km": 566.1,
+   "inc_deg": 53.17,
+   "frac_days": 0.761,
+   "per_day": 11.25
+  },
+  {
+   "unit": 54,
+   "cluster": "near polar, non-SSO",
+   "alt_km": 792.3,
+   "inc_deg": 88.72,
+   "frac_days": 0.581,
+   "per_day": 8.23
+  },
+  {
+   "unit": 55,
+   "cluster": "mid inclination",
+   "alt_km": 463.8,
+   "inc_deg": 53.3,
+   "frac_days": 0.783,
+   "per_day": 11.81
+  },
+  {
+   "unit": 56,
+   "cluster": "53 deg broadband shell",
+   "alt_km": 571.1,
+   "inc_deg": 53.11,
+   "frac_days": 0.814,
+   "per_day": 12.05
+  },
+  {
+   "unit": 57,
+   "cluster": "mid inclination",
+   "alt_km": 649.6,
+   "inc_deg": 64.17,
+   "frac_days": 0.697,
+   "per_day": 10.01
+  },
+  {
+   "unit": 58,
+   "cluster": "sun-synchronous",
+   "alt_km": 697.3,
+   "inc_deg": 98.17,
+   "frac_days": 0.0,
+   "per_day": 0.0,
+   "ltan_h": 16.8
+  },
+  {
+   "unit": 59,
+   "cluster": "near polar, non-SSO",
+   "alt_km": 784.3,
+   "inc_deg": 85.6,
+   "frac_days": 0.536,
+   "per_day": 7.64
+  },
+  {
+   "unit": 60,
+   "cluster": "53 deg broadband shell",
+   "alt_km": 542.0,
+   "inc_deg": 53.3,
+   "frac_days": 0.814,
+   "per_day": 12.01
+  },
+  {
+   "unit": 61,
+   "cluster": "near polar, non-SSO",
+   "alt_km": 746.7,
+   "inc_deg": 86.67,
+   "frac_days": 0.608,
+   "per_day": 8.63
+  },
+  {
+   "unit": 62,
+   "cluster": "53 deg broadband shell",
+   "alt_km": 562.8,
+   "inc_deg": 53.02,
+   "frac_days": 0.753,
+   "per_day": 11.07
+  },
+  {
+   "unit": 63,
+   "cluster": "mid inclination",
+   "alt_km": 496.4,
+   "inc_deg": 67.08,
+   "frac_days": 0.689,
+   "per_day": 10.27
+  },
+  {
+   "unit": 64,
+   "cluster": "53 deg broadband shell",
+   "alt_km": 557.3,
+   "inc_deg": 53.05,
+   "frac_days": 0.803,
+   "per_day": 11.85
+  },
+  {
+   "unit": 65,
+   "cluster": "sun-synchronous",
+   "alt_km": 633.7,
+   "inc_deg": 97.91,
+   "frac_days": 0.0,
+   "per_day": 0.0,
+   "ltan_h": 17.1
+  },
+  {
+   "unit": 66,
+   "cluster": "sun-synchronous",
+   "alt_km": 693.4,
+   "inc_deg": 98.15,
+   "frac_days": 0.344,
+   "per_day": 4.99,
+   "ltan_h": 20.5
+  },
+  {
+   "unit": 67,
+   "cluster": "mid inclination",
+   "alt_km": 488.1,
+   "inc_deg": 62.84,
+   "frac_days": 0.764,
+   "per_day": 11.46
+  },
+  {
+   "unit": 68,
+   "cluster": "53 deg broadband shell",
+   "alt_km": 563.2,
+   "inc_deg": 53.27,
+   "frac_days": 0.8,
+   "per_day": 11.87
+  },
+  {
+   "unit": 69,
+   "cluster": "mid inclination",
+   "alt_km": 485.8,
+   "inc_deg": 52.67,
+   "frac_days": 0.772,
+   "per_day": 11.53
+  },
+  {
+   "unit": 70,
+   "cluster": "mid inclination",
+   "alt_km": 632.2,
+   "inc_deg": 47.8,
+   "frac_days": 0.808,
+   "per_day": 11.68
+  },
+  {
+   "unit": 71,
+   "cluster": "sun-synchronous",
+   "alt_km": 724.5,
+   "inc_deg": 98.28,
+   "frac_days": 1.0,
+   "per_day": 14.52,
+   "ltan_h": 9.1
+  },
+  {
+   "unit": 72,
+   "cluster": "53 deg broadband shell",
+   "alt_km": 567.7,
+   "inc_deg": 53.03,
+   "frac_days": 0.781,
+   "per_day": 11.43
+  },
+  {
+   "unit": 73,
+   "cluster": "near polar, non-SSO",
+   "alt_km": 832.0,
+   "inc_deg": 89.06,
+   "frac_days": 0.589,
+   "per_day": 8.28
+  },
+  {
+   "unit": 74,
+   "cluster": "53 deg broadband shell",
+   "alt_km": 549.9,
+   "inc_deg": 53.26,
+   "frac_days": 0.769,
+   "per_day": 11.37
+  },
+  {
+   "unit": 75,
+   "cluster": "mid inclination",
+   "alt_km": 605.6,
+   "inc_deg": 62.14,
+   "frac_days": 0.742,
+   "per_day": 10.83
+  },
+  {
+   "unit": 76,
+   "cluster": "near polar, non-SSO",
+   "alt_km": 709.9,
+   "inc_deg": 85.88,
+   "frac_days": 0.575,
+   "per_day": 8.29
+  },
+  {
+   "unit": 77,
+   "cluster": "near polar, non-SSO",
+   "alt_km": 586.1,
+   "inc_deg": 86.95,
+   "frac_days": 0.542,
+   "per_day": 7.99
+  },
+  {
+   "unit": 78,
+   "cluster": "53 deg broadband shell",
+   "alt_km": 570.6,
+   "inc_deg": 53.18,
+   "frac_days": 0.811,
+   "per_day": 11.91
+  },
+  {
+   "unit": 79,
+   "cluster": "near polar, non-SSO",
+   "alt_km": 502.9,
+   "inc_deg": 85.66,
+   "frac_days": 0.581,
+   "per_day": 8.66
+  },
+  {
+   "unit": 80,
+   "cluster": "mid inclination",
+   "alt_km": 641.9,
+   "inc_deg": 62.8,
+   "frac_days": 0.703,
+   "per_day": 10.12
+  },
+  {
+   "unit": 81,
+   "cluster": "sun-synchronous",
+   "alt_km": 658.5,
+   "inc_deg": 98.01,
+   "frac_days": 0.0,
+   "per_day": 0.0,
+   "ltan_h": 16.1
+  },
+  {
+   "unit": 82,
+   "cluster": "53 deg broadband shell",
+   "alt_km": 563.2,
+   "inc_deg": 53.3,
+   "frac_days": 0.753,
+   "per_day": 10.97
+  },
+  {
+   "unit": 83,
+   "cluster": "53 deg broadband shell",
+   "alt_km": 556.9,
+   "inc_deg": 53.25,
+   "frac_days": 0.789,
+   "per_day": 11.68
+  },
+  {
+   "unit": 84,
+   "cluster": "sun-synchronous",
+   "alt_km": 480.4,
+   "inc_deg": 97.32,
+   "frac_days": 1.0,
+   "per_day": 15.3,
+   "ltan_h": 0.7
+  },
+  {
+   "unit": 85,
+   "cluster": "mid inclination",
+   "alt_km": 423.1,
+   "inc_deg": 69.68,
+   "frac_days": 0.675,
+   "per_day": 10.28
+  },
+  {
+   "unit": 86,
+   "cluster": "sun-synchronous",
+   "alt_km": 634.2,
+   "inc_deg": 97.91,
+   "frac_days": 0.233,
+   "per_day": 3.41,
+   "ltan_h": 20.3
+  },
+  {
+   "unit": 87,
+   "cluster": "sun-synchronous",
+   "alt_km": 578.8,
+   "inc_deg": 97.69,
+   "frac_days": 1.0,
+   "per_day": 14.98,
+   "ltan_h": 10.2
+  },
+  {
+   "unit": 88,
+   "cluster": "sun-synchronous",
+   "alt_km": 766.4,
+   "inc_deg": 98.45,
+   "frac_days": 0.0,
+   "per_day": 0.0,
+   "ltan_h": 18.4
+  },
+  {
+   "unit": 89,
+   "cluster": "sun-synchronous",
+   "alt_km": 771.0,
+   "inc_deg": 98.47,
+   "frac_days": 0.744,
+   "per_day": 10.65,
+   "ltan_h": 20.8
+  },
+  {
+   "unit": 90,
+   "cluster": "sun-synchronous",
+   "alt_km": 629.5,
+   "inc_deg": 97.89,
+   "frac_days": 1.0,
+   "per_day": 14.81,
+   "ltan_h": 14.3
+  },
+  {
+   "unit": 91,
+   "cluster": "53 deg broadband shell",
+   "alt_km": 550.4,
+   "inc_deg": 53.06,
+   "frac_days": 0.767,
+   "per_day": 11.2
+  },
+  {
+   "unit": 92,
+   "cluster": "53 deg broadband shell",
+   "alt_km": 570.1,
+   "inc_deg": 53.0,
+   "frac_days": 0.789,
+   "per_day": 11.66
+  },
+  {
+   "unit": 93,
+   "cluster": "mid inclination",
+   "alt_km": 612.2,
+   "inc_deg": 58.82,
+   "frac_days": 0.728,
+   "per_day": 10.59
+  },
+  {
+   "unit": 94,
+   "cluster": "sun-synchronous",
+   "alt_km": 679.0,
+   "inc_deg": 98.09,
+   "frac_days": 1.0,
+   "per_day": 14.66,
+   "ltan_h": 22.6
+  },
+  {
+   "unit": 95,
+   "cluster": "sun-synchronous",
+   "alt_km": 622.3,
+   "inc_deg": 97.87,
+   "frac_days": 1.0,
+   "per_day": 14.84,
+   "ltan_h": 0.2
+  },
+  {
+   "unit": 96,
+   "cluster": "53 deg broadband shell",
+   "alt_km": 540.4,
+   "inc_deg": 53.18,
+   "frac_days": 0.747,
+   "per_day": 11.12
+  },
+  {
+   "unit": 97,
+   "cluster": "53 deg broadband shell",
+   "alt_km": 563.6,
+   "inc_deg": 53.09,
+   "frac_days": 0.781,
+   "per_day": 11.48
+  },
+  {
+   "unit": 98,
+   "cluster": "mid inclination",
+   "alt_km": 400.9,
+   "inc_deg": 49.69,
+   "frac_days": 0.822,
+   "per_day": 12.61
+  },
+  {
+   "unit": 99,
+   "cluster": "53 deg broadband shell",
+   "alt_km": 531.0,
+   "inc_deg": 53.17,
+   "frac_days": 0.814,
+   "per_day": 12.07
+  },
+  {
+   "unit": 100,
+   "cluster": "sun-synchronous",
+   "alt_km": 635.2,
+   "inc_deg": 97.92,
+   "frac_days": 0.0,
+   "per_day": 0.0,
+   "ltan_h": 17.8
+  }
+ ]
+}
