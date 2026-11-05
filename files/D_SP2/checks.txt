@@ -1,0 +1,9 @@
+opening width needed at 40 deg across: 0.555; minimum 0.600 -> PASS
+corner ray at 40 deg across + 45 deg along reaches the film plane at x 0.278, y 5.386; opening 0.60 x 11.35 with full-radius ends -> PASS (margin 22 um)
+alignment band allows rotation up to 5.0 mrad; worst SP2-to-SP1 offset at H1 0.166, at H2 0.080 X / 0.145 Y (before position tolerances)
+H1 diameter needed 1.421; minimum 1.550 -> PASS (margin 0.129)
+H2 width needed 1.355, length needed 1.725; minimum 1.550 x 2.050 -> PASS
+with 0.20 pattern float in the 36.2 pocket, H1/H2 nearest |Y| to the bulkhead center 14.950 (opening edge 15.00); SP1 behind them stays solid to |Y| 15.193, so no light path through H1/H2 reaches the opening -> PASS
+metal to plate edge, worst case: H1 1.050, H2 0.800 (sheet 0.254); >= 3 x thickness -> PASS
+film patch at 1.5 overlap becomes 3.65 x 14.40 (rev A SPA: 3.65 x 14.00); inside the 17.0 film field in Y -> PASS; SPA sheet needs a revision
+opening half-length 5.70 vs H09 window half-height 7.50 -> PASS

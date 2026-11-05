@@ -1,0 +1,660 @@
+[
+ {
+  "item": "S_p1",
+  "path": "files/S_p1/SLANT-Visual-p1-2026-11-04.pdf",
+  "source": "evidence-site/reviewer-editions/SLANT-Visual-p1-2026-11-04-v11.pdf",
+  "bytes": 109390,
+  "sha256": "21bb1a3dda68bce7384349bc016cf63723bfd62b2b3f9841e93a6816179e6aff"
+ },
+ {
+  "item": "S_p1",
+  "path": "files/S_p1/SLANT-Visual-PDF-2026-11-04.pdf",
+  "source": "brief-figs/visual-pdf/SLANT-Visual-PDF-2026-11-04-v11-final.pdf",
+  "bytes": 905569,
+  "sha256": "7e90ab76e29fb79ca6dcf7886260f0da426c45dd4938608702b2aadd054b610c"
+ },
+ {
+  "item": "S_p2",
+  "path": "files/S_p2/SLANT-Visual-p2-2026-11-04.pdf",
+  "source": "evidence-site/reviewer-editions/SLANT-Visual-p2-2026-11-04-v11.pdf",
+  "bytes": 62094,
+  "sha256": "9a0506fa88e3e552394574af6c5d62992ece716d2ea6080c73742230b63e3d2a"
+ },
+ {
+  "item": "S_p3",
+  "path": "files/S_p3/SLANT-Visual-p3-2026-11-04.pdf",
+  "source": "evidence-site/reviewer-editions/SLANT-Visual-p3-2026-11-04-v11.pdf",
+  "bytes": 350071,
+  "sha256": "458a169611f25de5098f00ff87df355b140f9d7170313ac81220d862553ae5af"
+ },
+ {
+  "item": "S_p4",
+  "path": "files/S_p4/SLANT-Visual-p4-2026-11-04.pdf",
+  "source": "evidence-site/reviewer-editions/SLANT-Visual-p4-2026-11-04-v11.pdf",
+  "bytes": 384839,
+  "sha256": "1000d1923a1f10d35f15838a589c2a67ebc7344e09cd316cd279c389556cecb3"
+ },
+ {
+  "item": "S_p5",
+  "path": "files/S_p5/SLANT-Visual-p5-2026-11-04.pdf",
+  "source": "evidence-site/reviewer-editions/SLANT-Visual-p5-2026-11-04-v11.pdf",
+  "bytes": 157444,
+  "sha256": "b1c1ff9158ecfdf72427bae3805f27bec7011ec6dda4e0fa74afade419e3682e"
+ },
+ {
+  "item": "M03",
+  "path": "files/M03/SLANT-Modeling-Chain-2026-10-01.pdf",
+  "source": "brief-figs/modeling-chain/SLANT-Modeling-Chain-2026-10-01.pdf",
+  "bytes": 215464,
+  "sha256": "d9da39a259ee51a1eb8f2a71b76ea99a9abe7b832439924e3fcdeebb47ec8f6a"
+ },
+ {
+  "item": "M04",
+  "path": "files/M04/SLANT-Workflow-2026-10-08.svg",
+  "source": "brief-figs/slant-workflow/SLANT-Workflow-2026-10-08.svg",
+  "bytes": 117866,
+  "sha256": "02dcfbeaa7075fb17c250b8fce5edb5774a2162cadcfac80985d72560b5f6990"
+ },
+ {
+  "item": "M05",
+  "path": "files/M05/SLANT-Occultation-Clip-2026-10-01-master.mp4",
+  "source": "brief-figs/occultation-clip/SLANT-Occultation-Clip-2026-10-01-master.mp4",
+  "bytes": 4373136,
+  "sha256": "68cfd462ebead1622af023a4d735c30338b0ab59544707df8330e5e417b0cdf6"
+ },
+ {
+  "item": "M06",
+  "path": "files/M06/SLANT-Passband-Clip-2026-10-02-master.mp4",
+  "source": "brief-figs/passband-clip/SLANT-Passband-Clip-2026-10-02-master.mp4",
+  "bytes": 1868374,
+  "sha256": "dd18f73cf8752b1f462e5629ad21623943f796ff578db7202f33043f6e49bfdf"
+ },
+ {
+  "item": "M07",
+  "path": "files/M07/SLANT-Raytrace-Clip-2026-10-07-master.mp4",
+  "source": "brief-figs/raytrace-clip/SLANT-Raytrace-Clip-2026-10-07-master.mp4",
+  "bytes": 6701738,
+  "sha256": "7dc8c380afc8f43ced11ae8edf2980bbc1e8e0d2eb97e245c63123117b4a4674"
+ },
+ {
+  "item": "T_u01",
+  "path": "files/T_u01/Unit-01-why-density.pdf",
+  "source": "tutorials/Unit-01-why-density.pdf",
+  "bytes": 105406,
+  "sha256": "1341241782664c0dad76bdda561c0ebb3884b590a036fd104a9869c3a5847a55"
+ },
+ {
+  "item": "T_u02",
+  "path": "files/T_u02/Unit-02-atmosphere.pdf",
+  "source": "tutorials/Unit-02-atmosphere.pdf",
+  "bytes": 106088,
+  "sha256": "33fc59d3813a42ea584c5ba25cac69c95cd6f5729d0ad23fd44f49dd2b690815"
+ },
+ {
+  "item": "T_u03",
+  "path": "files/T_u03/Unit-03-variability.pdf",
+  "source": "tutorials/Unit-03-variability.pdf",
+  "bytes": 94196,
+  "sha256": "36ae0c810616c50cea62b7985075ad5e360a586c3260de5aaff210c410451fc2"
+ },
+ {
+  "item": "T_u04",
+  "path": "files/T_u04/Unit-04-cross-sections.pdf",
+  "source": "tutorials/Unit-04-cross-sections.pdf",
+  "bytes": 141201,
+  "sha256": "85631ddb61b3b3b8ea94f5ec9e7f12150cf543ea0601745e9666a702b553cb01"
+ },
+ {
+  "item": "T_u05",
+  "path": "files/T_u05/Unit-05-geometry.pdf",
+  "source": "tutorials/Unit-05-geometry.pdf",
+  "bytes": 135038,
+  "sha256": "309451253f71765c8db4ee6ad5da04e2ff0cbace811a7df36943d49934030a53"
+ },
+ {
+  "item": "T_u06",
+  "path": "files/T_u06/Unit-06-slant-columns.pdf",
+  "source": "tutorials/Unit-06-slant-columns.pdf",
+  "bytes": 131628,
+  "sha256": "cf5d9d8f0b166deee6b8cf5bc9070f60ef718fda552b91843356d1ab4e54e7e5"
+ },
+ {
+  "item": "T_u07",
+  "path": "files/T_u07/Unit-07-inversion.pdf",
+  "source": "tutorials/Unit-07-inversion.pdf",
+  "bytes": 106695,
+  "sha256": "67cc96bf82aa8092e0153684f53af6f7097b238873304988b46ac1d1ecc755a1"
+ },
+ {
+  "item": "T_u08",
+  "path": "files/T_u08/Unit-08-error-budget.pdf",
+  "source": "tutorials/Unit-08-error-budget.pdf",
+  "bytes": 151699,
+  "sha256": "67046dd607cccedea4b6f0d41e47853e1fa435394fe54e2a1a550f76186c79ec"
+ },
+ {
+  "item": "T_u10",
+  "path": "files/T_u10/Unit-10-channels.pdf",
+  "source": "tutorials/Unit-10-channels.pdf",
+  "bytes": 145882,
+  "sha256": "1153e58fa311907a9d46d739e0dceff8f7960baa7f06836641a42d88d6208bf1"
+ },
+ {
+  "item": "P_ACC",
+  "path": "files/P_ACC/run_2026_09_30s.json",
+  "source": "channel-plan/run_2026_09_30s.json",
+  "bytes": 5548,
+  "sha256": "b313347039a801d71542a0ccd36ec0ca7e69d60662c4be53ef1706cedbbff24e"
+ },
+ {
+  "item": "P_ACC",
+  "path": "files/P_ACC/checkB_step1_plus.json",
+  "source": "channel-plan/checkB_step1_plus.json",
+  "bytes": 2428,
+  "sha256": "8effb78eb584e1c807b84596d87c8417c47e3374e451ee007379158eb68601d6"
+ },
+ {
+  "item": "P_ACC",
+  "path": "files/P_ACC/checkB_step1_minus.json",
+  "source": "channel-plan/checkB_step1_minus.json",
+  "bytes": 2387,
+  "sha256": "307b746465add37faa38b655c655a1c1d917519949cd1e63954d377606c0eb02"
+ },
+ {
+  "item": "D_H01",
+  "path": "files/D_H01/SLANT-H01.pdf",
+  "source": "payload/housing-rev16/drawings/SLANT-H01.pdf",
+  "bytes": 59584,
+  "sha256": "cd06a9e52f8e4cc1a63da37ef6965f9e5c578a4b83fadd8d863b47fd2a551b34"
+ },
+ {
+  "item": "D_H01",
+  "path": "files/D_H01/SLANT-H01.step",
+  "source": "payload/housing-rev16/parts/SLANT-H01.step",
+  "bytes": 333430,
+  "sha256": "62f8a633820bca73100256adac531951972460a74b304fdd57e394b0c770cef7"
+ },
+ {
+  "item": "D_H02",
+  "path": "files/D_H02/SLANT-H02.pdf",
+  "source": "payload/housing-rev16/drawings/SLANT-H02.pdf",
+  "bytes": 50681,
+  "sha256": "5f7156aeb5c3ff22a66ed4ccb8b9ddeb81c6c3aa2343ff7e904d038ae18e6421"
+ },
+ {
+  "item": "D_H02",
+  "path": "files/D_H02/SLANT-H02.step",
+  "source": "payload/housing-rev16/parts/SLANT-H02.step",
+  "bytes": 363906,
+  "sha256": "a2cddd55814b42921aa601c505c5b47c0e11e2ce039d6ae8088fa55c0762f70b"
+ },
+ {
+  "item": "D_H03",
+  "path": "files/D_H03/SLANT-H03.pdf",
+  "source": "payload/housing-rev16/drawings/SLANT-H03.pdf",
+  "bytes": 43516,
+  "sha256": "fd688d4e85ada06f46d0701fe9f43ed919375c78264b08f0125e4aad19492f6a"
+ },
+ {
+  "item": "D_H03",
+  "path": "files/D_H03/SLANT-H03.step",
+  "source": "payload/housing-rev16/parts/SLANT-H03.step",
+  "bytes": 156722,
+  "sha256": "a4840c2aa799942455aba1d90e31f7263b17af4e68cc6c62ae4efe9342abc819"
+ },
+ {
+  "item": "D_H04",
+  "path": "files/D_H04/SLANT-H04.pdf",
+  "source": "payload/housing-rev16/drawings/SLANT-H04.pdf",
+  "bytes": 39280,
+  "sha256": "e1c318fdedfba13cba222c210262a5bceb33c65103a00c1e2806b4ee53978442"
+ },
+ {
+  "item": "D_H04",
+  "path": "files/D_H04/SLANT-H04.step",
+  "source": "payload/housing-rev16/parts/SLANT-H04.step",
+  "bytes": 111986,
+  "sha256": "13bcaf5c1b779082462deabad6c0ab2ce82345180fa3bfe40b6c42868f84e76d"
+ },
+ {
+  "item": "D_H05",
+  "path": "files/D_H05/SLANT-H05.pdf",
+  "source": "payload/housing-rev16/drawings/SLANT-H05.pdf",
+  "bytes": 42236,
+  "sha256": "9fc887c643af61bf03d3942b13ed201bc7ed7ccf825d63a49aad82e97d2ce2f2"
+ },
+ {
+  "item": "D_H05",
+  "path": "files/D_H05/SLANT-H05.step",
+  "source": "payload/housing-rev16/parts/SLANT-H05.step",
+  "bytes": 107925,
+  "sha256": "6a8ef97db4dbfee789c66473fe06880e8935ef824e156dc28abf698045271fb5"
+ },
+ {
+  "item": "D_H06",
+  "path": "files/D_H06/SLANT-H06.pdf",
+  "source": "payload/housing-rev16/drawings/SLANT-H06.pdf",
+  "bytes": 39803,
+  "sha256": "2fce8f03137342c3d2b466b23b5c7be52e94afb1632d4fca926355ddf0bb702c"
+ },
+ {
+  "item": "D_H06",
+  "path": "files/D_H06/SLANT-H06.step",
+  "source": "payload/housing-rev16/parts/SLANT-H06.step",
+  "bytes": 100390,
+  "sha256": "b71c834d9712ebb215159b479c5d585800cbc3813dcd65d64caee69870c5e6ff"
+ },
+ {
+  "item": "D_H07",
+  "path": "files/D_H07/SLANT-H07.pdf",
+  "source": "payload/housing-rev16/drawings/SLANT-H07.pdf",
+  "bytes": 38505,
+  "sha256": "2d71a2be5f5ffb6d3ee0857b0490a29f30fac03fef6cd7152de543b982cae88e"
+ },
+ {
+  "item": "D_H07",
+  "path": "files/D_H07/SLANT-H07.step",
+  "source": "payload/housing-rev16/parts/SLANT-H07.step",
+  "bytes": 66166,
+  "sha256": "b09d5ef0a6ed93eeb0e1476bc9d91808e040193b946ae9955d898fb9841f6861"
+ },
+ {
+  "item": "D_H08",
+  "path": "files/D_H08/SLANT-H08.pdf",
+  "source": "payload/housing-rev16/drawings/SLANT-H08.pdf",
+  "bytes": 40239,
+  "sha256": "3ee1ac0fd13594362ab07e184d5c0d981cf7b7d7349a6515cea923b08d00e566"
+ },
+ {
+  "item": "D_H08",
+  "path": "files/D_H08/SLANT-H08.step",
+  "source": "payload/housing-rev16/parts/SLANT-H08.step",
+  "bytes": 82150,
+  "sha256": "ab95a6970e83c3f228de802ce19303f0f34fcfa7e97255c64de8ab15ed78dca5"
+ },
+ {
+  "item": "D_H09",
+  "path": "files/D_H09/SLANT-H09.pdf",
+  "source": "payload/housing-rev16/drawings/SLANT-H09.pdf",
+  "bytes": 49059,
+  "sha256": "d172d041ee6cee42278fb2784a3c85a8e6c69bda4b1d0c8f1ebcc6fa5e599d1f"
+ },
+ {
+  "item": "D_H09",
+  "path": "files/D_H09/SLANT-H09.step",
+  "source": "payload/housing-rev16/parts/SLANT-H09.step",
+  "bytes": 109680,
+  "sha256": "0f884ca789702c0380373be05b1f2adf1283e3137b7e7e0a877323c611a1fea7"
+ },
+ {
+  "item": "D_3D",
+  "path": "files/D_3D/SLANT-1U-Assembly-2026-10-10-view.glb",
+  "source": "evidence-site/derived/glb/SLANT-1U-Assembly-2026-10-10-rev16-optA4-3-view.glb",
+  "bytes": 5653112,
+  "sha256": "3076c98061f2578602d4321e2d1d6ff9db7c8f7508efd04ef6de15b8e7ef0157"
+ },
+ {
+  "item": "D_A43",
+  "path": "files/D_A43/SLANT-1U-Board-Fit-2026-10-31.pdf",
+  "source": "evidence-site/derived/SLANT-1U-Board-Fit-2026-10-31.pdf",
+  "bytes": 648834,
+  "sha256": "458778a945a738828e2094577693077c36f29f1299c6b0e66fffe3b48f71b948"
+ },
+ {
+  "item": "D_R5",
+  "path": "files/D_R5/top-plate-baffle.png",
+  "source": "payload/housing-rev16/renders/rev16-top-plate-baffle.png",
+  "bytes": 57214,
+  "sha256": "428e0d6907f3faa1cb3c685d37972bfa5b76a607cb860406a319c45aac9ab84c"
+ },
+ {
+  "item": "D_SET",
+  "path": "files/D_SET/SLANT-Housing-revD-Drawings.pdf",
+  "source": "payload/housing-rev16/drawings/SLANT-Housing-revD-Drawings.pdf",
+  "bytes": 152553,
+  "sha256": "5b95d7d7c6c6c0d7f4f76e7ff4d4e1695579a317981ce37f04548dd44e4b5cca"
+ },
+ {
+  "item": "D_SP",
+  "path": "files/D_SP/SLANT-Slit-Plate-revA-Drawings.pdf",
+  "source": "slit-plate/rev-A/drawings/SLANT-Slit-Plate-revA-Drawings.pdf",
+  "bytes": 23189,
+  "sha256": "cba52e0940b71b7b0c57bbee8067417ce288a0300ba05d128a698affc99c8959"
+ },
+ {
+  "item": "D_SP",
+  "path": "files/D_SP/SLANT-SPA-assembly-revA.step",
+  "source": "slit-plate/rev-A/cad/SLANT-SPA-assembly-revA.step",
+  "bytes": 343197,
+  "sha256": "e587588d24a87554523c32e00dcd84907c072a2adf1e12eb73efec4ca784c038"
+ },
+ {
+  "item": "D_SP2",
+  "path": "files/D_SP2/SLANT-SP2-revC.pdf",
+  "source": "slit-plate/SP2-rev-C-2026-10-28/drawings/SLANT-SP2-revC.pdf",
+  "bytes": 5540,
+  "sha256": "9d6910bd980c06853424bad08a3869a829dc1844d6af141fc812bf26e044b181"
+ },
+ {
+  "item": "D_SP2",
+  "path": "files/D_SP2/SLANT-SP2-carrier-revC.dxf",
+  "source": "slit-plate/SP2-rev-C-2026-10-28/cad/SLANT-SP2-carrier-revC.dxf",
+  "bytes": 37563,
+  "sha256": "cfbb6a2701efd79bf0c43af7af820392fcbe7ae03637b5a20d37067bfc4f7a2a"
+ },
+ {
+  "item": "D_SP2",
+  "path": "files/D_SP2/SLANT-SP2-carrier-revC.step",
+  "source": "slit-plate/SP2-rev-C-2026-10-28/cad/SLANT-SP2-carrier-revC.step",
+  "bytes": 122664,
+  "sha256": "a715fb9bd57c785cf2faec7770a3ed6c21919cd7c81049ea73ec4323c8e132e1"
+ },
+ {
+  "item": "D_SP2",
+  "path": "files/D_SP2/checks.txt",
+  "source": "slit-plate/SP2-rev-C-2026-10-28/checks.txt",
+  "bytes": 1009,
+  "sha256": "22fbb5f85d7348adc6727139fe2ef95079bc538bc5e1524ce90be442e0d16c07"
+ },
+ {
+  "item": "D_TT",
+  "path": "files/D_TT/SLANT-1U-Turntable-20s-2026-10-13.mp4",
+  "source": "payload/housing-rev16-optA4-3/SLANT-1U-Turntable-20s-2026-10-13-rev16-optA4-3.mp4",
+  "bytes": 6023091,
+  "sha256": "659335d0450005ccff940f4134fe7b6632f67760a56d34ecd912adaf26e0eca5"
+ },
+ {
+  "item": "D_CCP",
+  "path": "files/D_CCP/SLANT-Contamination-Control-Plan-2026-10-31.pdf",
+  "source": "payload/SLANT-Contamination-Control-Plan-2026-10-31.pdf",
+  "bytes": 147697,
+  "sha256": "bae58adae66383122c4f5818f57c958ed06aaaa21bdceca85ffe801b3bedf6ed"
+ },
+ {
+  "item": "D_ASM",
+  "path": "files/D_ASM/SLANT-1U-Assembly-Instructions-2026-10-31.pdf",
+  "source": "evidence-site/derived/assembly/SLANT-1U-Assembly-Instructions-2026-10-31.pdf",
+  "bytes": 660357,
+  "sha256": "72842c13d64c4cde8b77461978a657874c1fe23809f4d75a765f1800485eb279"
+ },
+ {
+  "item": "D_ASM",
+  "path": "files/D_ASM/SLANT-bulkhead-standin-2026-10-29.dxf",
+  "source": "payload/assembly-guide-2026-10-29/SLANT-bulkhead-standin-2026-10-29.dxf",
+  "bytes": 18184,
+  "sha256": "727cb3c41b916c406c303ae1b4f670f8235257edcb550c9f95fa307b70e78dd6"
+ },
+ {
+  "item": "D_ASM",
+  "path": "files/D_ASM/SLANT-bulkhead-standin-2026-10-29.stl",
+  "source": "payload/assembly-guide-2026-10-29/SLANT-bulkhead-standin-2026-10-29.stl",
+  "bytes": 509284,
+  "sha256": "609636a26e57c0e497f556133c19d379265949115e2cf962b608b04003546e91"
+ },
+ {
+  "item": "E_BLK",
+  "path": "files/E_BLK/SLANT-Carrier-BlockDiagram-2026-10-31.svg",
+  "source": "evidence-site/derived/SLANT-Carrier-BlockDiagram-2026-10-31.svg",
+  "bytes": 13839,
+  "sha256": "b88b71acd21963fa2ac27ef633eef0cc0b52fe375d7944cd099a42bb5d0fb847"
+ },
+ {
+  "item": "E_SCH",
+  "path": "files/E_SCH/SLANT-Carrier-Schematic-2026-10-31.pdf",
+  "source": "evidence-site/derived/carrier-schematic-2026-10-31/SLANT-Carrier-Schematic-2026-10-31.pdf",
+  "bytes": 604055,
+  "sha256": "d3a4fce17f93106b2036c67224f1d94cc5cdc7e3137365ba67072eae0f40cc55"
+ },
+ {
+  "item": "E_SCH",
+  "path": "files/E_SCH/sheet-1.svg",
+  "source": "evidence-site/derived/sch-2026-10-31/sheet-1.svg",
+  "bytes": 530743,
+  "sha256": "38c46f83c51f5b3df21a6eddf525d5260831cdb2518576918d17bb069ec53f3c"
+ },
+ {
+  "item": "E_SCH",
+  "path": "files/E_SCH/sheet-2.svg",
+  "source": "evidence-site/derived/sch-2026-10-31/sheet-2.svg",
+  "bytes": 1177912,
+  "sha256": "6ed089a4e9bbc5c661f8603d34da0f43bf25e1119d0e277aa5bdd3d96b48ba86"
+ },
+ {
+  "item": "E_SCH",
+  "path": "files/E_SCH/sheet-3.svg",
+  "source": "evidence-site/derived/sch-2026-10-31/sheet-3.svg",
+  "bytes": 1124736,
+  "sha256": "48659ab94739e00c422b72dd93138ce8e638a717ea5f0c0a0831bd20e01140ca"
+ },
+ {
+  "item": "E_SCH",
+  "path": "files/E_SCH/sheet-4.svg",
+  "source": "evidence-site/derived/sch-2026-10-31/sheet-4.svg",
+  "bytes": 915681,
+  "sha256": "8cb33a2a0afc906a2a4e8b89c40088a65ac1a0f928b99511890bcf631c1970b8"
+ },
+ {
+  "item": "E_SCH",
+  "path": "files/E_SCH/sheet-5.svg",
+  "source": "evidence-site/derived/sch-2026-10-31/sheet-5.svg",
+  "bytes": 1093459,
+  "sha256": "73186e06bb36f40087720c8402564b613ef0f8baab7ff69f39e2f0784cb119ed"
+ },
+ {
+  "item": "E_SCH",
+  "path": "files/E_SCH/sheet-6.svg",
+  "source": "evidence-site/derived/sch-2026-10-31/sheet-6.svg",
+  "bytes": 856797,
+  "sha256": "fcdb4eb68a0ee0e06545d2e70c26f8ac531defe85a60a6a39b8739731556fc06"
+ },
+ {
+  "item": "E_SCH",
+  "path": "files/E_SCH/sheet-7.svg",
+  "source": "evidence-site/derived/sch-2026-10-31/sheet-7.svg",
+  "bytes": 629769,
+  "sha256": "3ede87545cef39b4b0a9c169a8e9970352cf4b07802f55281650f42708f6de9e"
+ },
+ {
+  "item": "E_PCB",
+  "path": "files/E_PCB/SLANT-Carrier-PCB-Routing-2026-10-31.pdf",
+  "source": "evidence-site/derived/pcb-2026-10-31/SLANT-Carrier-PCB-Routing-2026-10-31.pdf",
+  "bytes": 436639,
+  "sha256": "1abbb13711d2769b24b7a4cd00ef2cf24efb5e8fd3e05a01c49021c8da7c8be0"
+ },
+ {
+  "item": "E_PCB",
+  "path": "files/E_PCB/SLANT-Carrier-PCB-Placement-2026-10-31.pdf",
+  "source": "evidence-site/derived/pcb-2026-10-31/SLANT-Carrier-PCB-Placement-2026-10-31.pdf",
+  "bytes": 307569,
+  "sha256": "f4f7a77c7b78c4c6210a2c2f310eb181a2e1fb196928fc632b9223d14abae958"
+ },
+ {
+  "item": "E_PCB",
+  "path": "files/E_PCB/SLANT-Carrier-PCB-Routing-2026-10-31-F.svg",
+  "source": "evidence-site/derived/pcb-2026-10-31/SLANT-Carrier-PCB-Routing-2026-10-31-F.svg",
+  "bytes": 1124332,
+  "sha256": "88ccb5cf6bf97b31827e9916969a5da17d70025ac1f92bad72f6fcd6ad776b59"
+ },
+ {
+  "item": "E_PCB",
+  "path": "files/E_PCB/SLANT-Carrier-PCB-Routing-2026-10-31-B.svg",
+  "source": "evidence-site/derived/pcb-2026-10-31/SLANT-Carrier-PCB-Routing-2026-10-31-B.svg",
+  "bytes": 825952,
+  "sha256": "0c1a7183f5c1bf747ee9a7e50b5eac80bd417a0d5f318c4d644ab718e18f6ba8"
+ },
+ {
+  "item": "E_PCB",
+  "path": "files/E_PCB/SLANT-Carrier-PCB-Placement-2026-10-11-top.svg",
+  "source": "payload/carrier-board-A4-schematic/SLANT-Carrier-PCB-Placement-2026-10-11-A4-8-top.svg",
+  "bytes": 379621,
+  "sha256": "66cc55ebe25ee45481994a10d2f297f2beba17ec08a222306d397e5a130090a7"
+ },
+ {
+  "item": "E_PCB",
+  "path": "files/E_PCB/SLANT-Carrier-PCB-Placement-2026-10-11-bottom.svg",
+  "source": "payload/carrier-board-A4-schematic/SLANT-Carrier-PCB-Placement-2026-10-11-A4-8-bottom.svg",
+  "bytes": 147030,
+  "sha256": "0672540f7bc2cfeea355e3145e45b3c64189a911220499fb98e134472f9a6576"
+ },
+ {
+  "item": "E_PCB",
+  "path": "files/E_PCB/SLANT-Carrier-PCB-Placement-2026-10-11-In1.svg",
+  "source": "payload/carrier-board-A4-schematic/SLANT-Carrier-PCB-Placement-2026-10-11-A4-8-In1.svg",
+  "bytes": 40600,
+  "sha256": "eb9427c45c6770ee4127cba026e24484d8d2d996857e58989a408fb8e7030d42"
+ },
+ {
+  "item": "E_BOM",
+  "path": "files/E_BOM/SLANT-Carrier-BOM-2026-10-31.csv",
+  "source": "evidence-site/derived/SLANT-Carrier-BOM-2026-10-31.csv",
+  "bytes": 17273,
+  "sha256": "fab3ff0bd00588c13901a1ff924b285543434a1afc59305250987fd4f0d5e1d4"
+ },
+ {
+  "item": "E_DOC",
+  "path": "files/E_DOC/SLANT-Carrier-Design-Record-2026-11-04.pdf",
+  "source": "evidence-site/reviewer-editions/SLANT-Carrier-Design-Record-2026-11-04.pdf",
+  "bytes": 178836,
+  "sha256": "3462e702e72e20e3fca89dda59cd7ec30327f314897fafb3d9e71d9baca2a23f"
+ },
+ {
+  "item": "E_KICAD",
+  "path": "files/E_KICAD/SLANT-Carrier-KiCad-2026-10-12.zip",
+  "source": "(built from payload/carrier-board-A4-schematic/)",
+  "bytes": 999095,
+  "sha256": "5fe442f33eea9b0564d8a294d7712012090c978f199f982f60bcb76d8a9c4c3b"
+ },
+ {
+  "item": "E_PWR",
+  "path": "files/E_PWR/SLANT-Power-Mass-Estimate-2026-10-31.py",
+  "source": "evidence-site/derived/SLANT-Power-Mass-Estimate-2026-10-31.py",
+  "bytes": 2697,
+  "sha256": "225ac9662b511508c04fd10e00f2c7e895d624554ff5e75f574ff07a7b0e312e"
+ },
+ {
+  "item": "T_BENCH",
+  "path": "files/T_BENCH/SLANT-Bench-Photo-2026-10-15.png",
+  "source": "brief-figs/bench-photo/SLANT-Bench-Photo-2026-10-15.png",
+  "bytes": 1332264,
+  "sha256": "67355f78d288c54bd7a7e1c6c588a282814f80d82115176a9cf9c2fcae76dc9a"
+ },
+ {
+  "item": "T_BENCH",
+  "path": "files/T_BENCH/bench-1-light-source.jpg",
+  "source": "brief-figs/bench-photo/bench-1-light-source.jpg",
+  "bytes": 277630,
+  "sha256": "1e2373700ba2f6b3431983a5efe42a965dc500fef99ede460a13d5cd90f326fb"
+ },
+ {
+  "item": "T_BENCH",
+  "path": "files/T_BENCH/bench-2-diffusers-pinhole-filter.jpg",
+  "source": "brief-figs/bench-photo/bench-2-diffusers-pinhole-filter.jpg",
+  "bytes": 225893,
+  "sha256": "3b34e694a12377746b0085873c002e9470b67793d4db097b7fd65098029eb326"
+ },
+ {
+  "item": "T_BENCH",
+  "path": "files/T_BENCH/bench-3-camera-slit-baffle.jpg",
+  "source": "brief-figs/bench-photo/bench-3-camera-slit-baffle.jpg",
+  "bytes": 164881,
+  "sha256": "6bfd6956ac821af5c3fbe57f4d5c2c4513ef9d21537d0c914854049b81d6bf0c"
+ },
+ {
+  "item": "T_MATCH",
+  "path": "files/T_MATCH/geometry.py",
+  "source": "bench/assembly/geometry.py",
+  "bytes": 3089,
+  "sha256": "0f745fa5a2c66082814fb7f9a8e610df15ae748bf9f09cee635c4ed7095199bc"
+ },
+ {
+  "item": "T_DRAW",
+  "path": "files/T_DRAW/SLANT-Bench-Assembly-Drawings-2026-10-08.pdf",
+  "source": "evidence-site/reviewer-editions/SLANT-Bench-Assembly-Drawings-2026-10-08.pdf",
+  "bytes": 164096,
+  "sha256": "ddeb8e2e87d6e48c377acf52850e837c743fe5948f73fd092269d97761aaa1df"
+ },
+ {
+  "item": "T_DRAW",
+  "path": "files/T_DRAW/F1-plan-view.svg",
+  "source": "bench/assembly/fig/F1-plan-view.svg",
+  "bytes": 437800,
+  "sha256": "25bb05b5fd3e3726ec2d2714f9d920e04c030d7b38b9d3387409db65ce28d5c3"
+ },
+ {
+  "item": "T_DRAW",
+  "path": "files/T_DRAW/F2-side-view.svg",
+  "source": "bench/assembly/fig/F2-side-view.svg",
+  "bytes": 31091,
+  "sha256": "c2584faf8a344265b27beff3ada426584260eb4092122de58db88b44c83bb71e"
+ },
+ {
+  "item": "T_DRAW",
+  "path": "files/T_DRAW/F3-camera-head-exploded.svg",
+  "source": "bench/assembly/fig/F3-camera-head-exploded.svg",
+  "bytes": 19051,
+  "sha256": "7d54f13d53cd26fd450c3e61aee69193477297f90a6570c080f5f3914e822a11"
+ },
+ {
+  "item": "T_DRAW",
+  "path": "files/T_DRAW/F3b-standoff-measurements.svg",
+  "source": "bench/assembly/fig/F3b-standoff-measurements.svg",
+  "bytes": 16866,
+  "sha256": "49d54e524511bb1fb396090d0f98eabb8d97932da8fa4eeb1117c31f7e6c0f7f"
+ },
+ {
+  "item": "T_DRAW",
+  "path": "files/T_DRAW/F6-expected-camera-view.svg",
+  "source": "bench/assembly/fig/F6-expected-camera-view.svg",
+  "bytes": 13995,
+  "sha256": "ade901e89944d56d04f0d06415d21e5d86aadc19e55c2b2ecfa0e6da817df5ff"
+ },
+ {
+  "item": "T_A5",
+  "path": "files/T_A5/SLANT-Bench-A5-Optical-Depth-2026-10-18.csv",
+  "source": "evidence-site/derived/SLANT-Bench-A5-Optical-Depth-2026-10-18.csv",
+  "bytes": 408,
+  "sha256": "11043a94819a9f5742d57abd17f8183318a8f6d1cb5e559d6d42ef4d56d60141"
+ },
+ {
+  "item": "C_RATE",
+  "path": "files/C_RATE/SLANT-Occultation-Rate-2026-10-31.pdf",
+  "source": "evidence-site/reviewer-editions/SLANT-Occultation-Rate-2026-10-31.pdf",
+  "bytes": 89712,
+  "sha256": "64a494fc2feae8b0c9295bf0b32028d2e3a481838ac92d5f8c98f4636c1fea70"
+ },
+ {
+  "item": "C_RATE",
+  "path": "files/C_RATE/r5_cluster_days.json",
+  "source": "channel-plan/r5_cluster_days.json",
+  "bytes": 15499,
+  "sha256": "1943d23e360dd34ff9af06eed8c7eeb76744aca42dade19fc19fda53e689e0d7"
+ },
+ {
+  "item": "C_RATE",
+  "path": "files/C_RATE/r5_unit_latitude.json",
+  "source": "channel-plan/r5_unit_latitude.json",
+  "bytes": 3756,
+  "sha256": "44239d31fa41f023d805db4259ede9bd419fc65d99f2db41829138999f094688"
+ },
+ {
+  "item": "C_AVG",
+  "path": "files/C_AVG/SLANT-Network-Averaging-2026-10-31.pdf",
+  "source": "evidence-site/reviewer-editions/SLANT-Network-Averaging-2026-10-31.pdf",
+  "bytes": 109632,
+  "sha256": "55d0432737b9503abcc00bb3d84e87285044239c6fcb39b3ea92f010fa45ef98"
+ },
+ {
+  "item": "C_AVG",
+  "path": "files/C_AVG/c8_lot_shared_results.json",
+  "source": "channel-plan/c8_lot_shared_results.json",
+  "bytes": 388,
+  "sha256": "704f94f0097073b4d7a6da51daf4cf672db9cb7595c3779505132249a1c6b122"
+ },
+ {
+  "item": "C_NET",
+  "path": "files/C_NET/SLANT-Network-Orientation-2026-10-31.pdf",
+  "source": "evidence-site/reviewer-editions/SLANT-Network-Orientation-2026-10-31.pdf",
+  "bytes": 102161,
+  "sha256": "8fc438baefba932825f979c870a096a276ab9e0bd72beb967ea14cdc0700d929"
+ }
+]
